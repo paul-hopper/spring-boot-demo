@@ -12,4 +12,4 @@ spec:
   owner: "paulcroarkin"
   system: hopper
   consumesApis:
-    - golang-demo
+    - go-lang-demo
