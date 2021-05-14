@@ -10,3 +10,6 @@ spec:
   type: service
   lifecycle: experimental
   owner: "paulcroarkin"
+  system: hopper
+  consumesApis:
+    - go-lang-demo
