@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "spring-boot-demo"
+  description: "demo"
+  annotations:
+    github.com/project-slug: paul-hopper/spring-boot-demo
+    backstage.io/techdocs-ref: url:https://github.com/paul-hopper/spring-boot-demo
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "paulcroarkin"
